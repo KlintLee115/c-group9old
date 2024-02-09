@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ModernAppliances
-build_property.ProjectDir = C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\
+build_property.ProjectDir = C:\Users\jvcha\Source\Repos\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
