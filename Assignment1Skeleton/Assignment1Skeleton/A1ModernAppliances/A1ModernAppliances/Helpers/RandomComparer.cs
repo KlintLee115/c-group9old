@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 using ModernAppliances.Entities.Abstract;
+=======
+﻿using ModernAppliances.Entities.Abstract;
+>>>>>>> main
 
 namespace ModernAppliances.Helpers
 {

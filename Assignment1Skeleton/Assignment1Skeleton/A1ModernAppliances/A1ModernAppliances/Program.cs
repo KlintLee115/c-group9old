@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 namespace ModernAppliances
+=======
+﻿namespace ModernAppliances
+>>>>>>> main
 {
     internal class Program
     {
@@ -15,8 +19,11 @@ namespace ModernAppliances
             {
                 modernAppliances.DisplayMenu();
 
+<<<<<<< HEAD
                 Console.WriteLine("\nEnter option: ");
 
+=======
+>>>>>>> main
                 option = Enum.Parse<ModernAppliances.Options>(Console.ReadLine());
                 
                 switch (option)
