@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+using ModernAppliances.Entities;
+=======
 ﻿using ModernAppliances.Entities;
+>>>>>>> main
 using ModernAppliances.Entities.Abstract;
 
 namespace ModernAppliances
@@ -347,7 +351,11 @@ namespace ModernAppliances
         {
             if (appliances.Count > 0)
             {
+<<<<<<< HEAD
+                Console.WriteLine("Matching appliances:");
+=======
                 Console.WriteLine("Found appliances:");
+>>>>>>> main
                 Console.WriteLine();
 
                 // Display found appliances until either end of list is reached or number of appliances requested is shown.

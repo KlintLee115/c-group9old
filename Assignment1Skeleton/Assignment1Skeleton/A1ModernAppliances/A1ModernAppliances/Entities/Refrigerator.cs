@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+using ModernAppliances.Entities.Abstract;
+=======
 ﻿using ModernAppliances.Entities.Abstract;
+>>>>>>> main
 
 namespace ModernAppliances.Entities
 {
@@ -72,14 +76,30 @@ namespace ModernAppliances.Entities
         }
         public override string ToString()
         {
+<<<<<<< HEAD
+
+            string numDoors = Doors switch {
+                1 => "One Door",
+                2 => "Two Doors",
+                3 => "Three Doors",
+                4 => "Four Doors"
+            };
+
+        string display =
+=======
             string display =
+>>>>>>> main
                 string.Format("Item Number: {0}", ItemNumber) + "\n" +
                 string.Format("Brand: {0}", Brand) + "\n" +
                 string.Format("Quantity: {0}", Quantity) + "\n" +
                 string.Format("Wattage: {0}", Wattage) + "\n" +
                 string.Format("Color: {0}", Color) + "\n" +
                 string.Format("Price: {0}", Price) + "\n" +
+<<<<<<< HEAD
+                string.Format("Doors: {0}", numDoors) + "\n" +
+=======
                 string.Format("Doors: {0}", Doors) + "\n" +
+>>>>>>> main
                 string.Format("Width: {0}", Width) + "\n" +
                 string.Format("Height: {0}", Height);
 

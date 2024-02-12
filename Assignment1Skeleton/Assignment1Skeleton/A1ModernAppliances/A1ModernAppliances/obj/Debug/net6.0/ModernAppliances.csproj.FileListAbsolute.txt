@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
 C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
 C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
@@ -13,3 +14,36 @@ C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skele
 C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
 C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
 C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.sourcelink.json
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\alenr\Desktop\c-group9\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
+=======
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\jvcha\OneDrive\Desktop\OOP #2\Assignments\Assignment 1\Assignment1Skeleton\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
+>>>>>>> main

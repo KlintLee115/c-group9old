@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+namespace ModernAppliances.Entities.Abstract
+=======
 ﻿namespace ModernAppliances.Entities.Abstract
+>>>>>>> main
 {
     /// <summary>
     /// Abstract representation of an appliance

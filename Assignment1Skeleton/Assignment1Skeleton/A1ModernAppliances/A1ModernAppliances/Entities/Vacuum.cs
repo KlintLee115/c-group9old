@@ -59,6 +59,11 @@ namespace ModernAppliances.Entities
 
         public override string ToString()
         {
+<<<<<<< HEAD
+            string batteryVoltage = BatteryVoltage == 18 ? "Low" : "High";
+
+=======
+>>>>>>> main
             string display =
                 string.Format("Item Number: {0}", ItemNumber) + "\n" +
                 string.Format("Brand: {0}", Brand) + "\n" +
@@ -67,7 +72,11 @@ namespace ModernAppliances.Entities
                 string.Format("Color: {0}", Color) + "\n" +
                 string.Format("Price: {0}", Price) + "\n" +
                 string.Format("Grade: {0}", Grade) + "\n" +
+<<<<<<< HEAD
+                string.Format("Battery Voltage: {0}", batteryVoltage);
+=======
                 string.Format("Battery Voltage: {0}", BatteryVoltage);
+>>>>>>> main
 
             return display;
         }
